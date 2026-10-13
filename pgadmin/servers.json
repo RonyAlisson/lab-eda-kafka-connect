@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "lab-eda-postgres",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "lab_eda_kafka",
+      "Username": "lab_eda",
+      "SSLMode": "prefer"
+    }
+  }
+}
